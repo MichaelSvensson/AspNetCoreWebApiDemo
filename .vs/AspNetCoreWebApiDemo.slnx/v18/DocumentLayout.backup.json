@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|c:\\dev\\vs2026\\mywebapiproj\\aspnetcorewebapidemo\\fundamentalspluralsight\\practicedebugging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|solutionrelative:fundamentalspluralsight\\practicedebugging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|c:\\dev\\vs2026\\mywebapiproj\\aspnetcorewebapidemo\\fundamentalspluralsight\\constreadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|solutionrelative:fundamentalspluralsight\\constreadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|c:\\dev\\vs2026\\mywebapiproj\\aspnetcorewebapidemo\\fundamentalspluralsight\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|solutionrelative:fundamentalspluralsight\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|c:\\dev\\vs2026\\mywebapiproj\\aspnetcorewebapidemo\\fundamentalspluralsight\\stringmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|solutionrelative:fundamentalspluralsight\\stringmanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|c:\\dev\\vs2026\\mywebapiproj\\aspnetcorewebapidemo\\fundamentalspluralsight\\fundamentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|solutionrelative:fundamentalspluralsight\\fundamentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|c:\\dev\\vs2026\\mywebapiproj\\aspnetcorewebapidemo\\fundamentalspluralsight\\sealedkeywordexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AB504F-C592-482A-9215-5994D64E476C}|FundamentalsPluralSight\\FundamentalsPluralSight.csproj|solutionrelative:fundamentalspluralsight\\sealedkeywordexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "constReadonly.cs",
+              "DocumentMoniker": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\constReadonly.cs",
+              "RelativeDocumentMoniker": "FundamentalsPluralSight\\constReadonly.cs",
+              "ToolTip": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\constReadonly.cs",
+              "RelativeToolTip": "FundamentalsPluralSight\\constReadonly.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:48:00.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticeDebugging.cs",
+              "DocumentMoniker": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\PracticeDebugging.cs",
+              "RelativeDocumentMoniker": "FundamentalsPluralSight\\PracticeDebugging.cs",
+              "ToolTip": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\PracticeDebugging.cs",
+              "RelativeToolTip": "FundamentalsPluralSight\\PracticeDebugging.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:25:12.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\Person.cs",
+              "RelativeDocumentMoniker": "FundamentalsPluralSight\\Person.cs",
+              "ToolTip": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\Person.cs",
+              "RelativeToolTip": "FundamentalsPluralSight\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:58:22.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fundamentals.cs",
+              "DocumentMoniker": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\fundamentals.cs",
+              "RelativeDocumentMoniker": "FundamentalsPluralSight\\fundamentals.cs",
+              "ToolTip": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\fundamentals.cs",
+              "RelativeToolTip": "FundamentalsPluralSight\\fundamentals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:35:39.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stringManipulation.cs",
+              "DocumentMoniker": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\stringManipulation.cs",
+              "RelativeDocumentMoniker": "FundamentalsPluralSight\\stringManipulation.cs",
+              "ToolTip": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\stringManipulation.cs",
+              "RelativeToolTip": "FundamentalsPluralSight\\stringManipulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:35:36.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SealedKeywordExamples.cs",
+              "DocumentMoniker": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\SealedKeywordExamples.cs",
+              "RelativeDocumentMoniker": "FundamentalsPluralSight\\SealedKeywordExamples.cs",
+              "ToolTip": "C:\\DEV\\VS2026\\MyWebApiProj\\AspNetCoreWebApiDemo\\FundamentalsPluralSight\\SealedKeywordExamples.cs",
+              "RelativeToolTip": "FundamentalsPluralSight\\SealedKeywordExamples.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:01:28.597Z",
+              "EditorCaption": ""
             }
           ]
         }

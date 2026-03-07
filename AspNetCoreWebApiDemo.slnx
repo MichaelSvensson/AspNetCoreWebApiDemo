@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="AspNetCoreWebApiDemo/AspNetCoreWebApiDemo.csproj" />
+  <Project Path="FundamentalsPluralSight/FundamentalsPluralSight.csproj" Id="49ab504f-c592-482a-9215-5994d64e476c" />
 </Solution>
