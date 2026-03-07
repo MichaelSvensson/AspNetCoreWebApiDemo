@@ -1,0 +1,15 @@
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\bin\Debug\net10.0\FundamentalsPluralSight.exe
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\bin\Debug\net10.0\FundamentalsPluralSight.deps.json
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\bin\Debug\net10.0\FundamentalsPluralSight.runtimeconfig.json
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\bin\Debug\net10.0\FundamentalsPluralSight.dll
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\bin\Debug\net10.0\FundamentalsPluralSight.pdb
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\obj\Debug\net10.0\FundamentalsPluralSight.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\obj\Debug\net10.0\FundamentalsPluralSight.AssemblyInfoInputs.cache
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\obj\Debug\net10.0\FundamentalsPluralSight.AssemblyInfo.cs
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\obj\Debug\net10.0\FundamentalsPluralSight.csproj.CoreCompileInputs.cache
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\obj\Debug\net10.0\FundamentalsPluralSight.sourcelink.json
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\obj\Debug\net10.0\FundamentalsPluralSight.dll
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\obj\Debug\net10.0\refint\FundamentalsPluralSight.dll
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\obj\Debug\net10.0\FundamentalsPluralSight.pdb
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\obj\Debug\net10.0\FundamentalsPluralSight.genruntimeconfig.cache
+C:\DEV\VS2026\MyWebApiProj\AspNetCoreWebApiDemo\FundamentalsPluralSight\obj\Debug\net10.0\ref\FundamentalsPluralSight.dll
